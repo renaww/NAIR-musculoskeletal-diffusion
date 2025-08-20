@@ -1,0 +1,11 @@
+# Used to run validation simulations
+ModelOpenSim4 {
+	model_file = leg6dof9musc2.osim
+	state_init_file = WriteableInit.zml
+	fixed_control_step_size = 0.01
+	initial_load = 0
+	initial_equilibration_activation = 0.01
+	CompositeController {
+	}
+}
+
