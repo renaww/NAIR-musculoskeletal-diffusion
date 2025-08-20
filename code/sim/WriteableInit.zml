@@ -1,0 +1,9 @@
+
+            values {
+                knee_angle_r = -1.79768913
+                ankle_angle_r = -0.55850536
+            }
+            velocities {
+                knee_angle_r = 0
+                ankle_angle_r = 0
+            }

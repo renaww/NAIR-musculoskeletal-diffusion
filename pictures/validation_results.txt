@@ -1,0 +1,19 @@
+SQUARED SUM OF ACTIVATIONS: SCONE trajectory = 1.739015391990881  Inferred trajectory = 2.0757027917240096
+PEAK ACTIVATION: SCONE = /forceset/bifemlh_r/activation      0.161477
+/forceset/bifemsh_r/activation      0.384517
+/forceset/glut_max2_r/activation    0.018011
+/forceset/psoas_r/activation        0.242884
+/forceset/rect_fem_r/activation     0.936047
+/forceset/vas_int_r/activation      0.922845
+/forceset/med_gas_r/activation      0.289327
+/forceset/soleus_r/activation       0.188602
+/forceset/tib_ant_r/activation      0.127123
+dtype: float64  Inferred = /forceset/bifemlh_r/activation      0.249385
+/forceset/bifemsh_r/activation      0.380298
+/forceset/glut_max2_r/activation    0.535824
+/forceset/psoas_r/activation        0.141079
+/forceset/rect_fem_r/activation     0.834364
+/forceset/vas_int_r/activation      0.936263
+/forceset/med_gas_r/activation      0.249443
+/forceset/soleus_r/activation       0.039145
+/forceset/tib_ant_r/activation      0.176957
