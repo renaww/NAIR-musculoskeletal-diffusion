@@ -42,11 +42,11 @@ The data generation pipeline is now integrated with Pose2Sim computer vision, an
 
 A demo of the pipeline in action is shown below for a stumble. The changing colors of the muscles denote changing activations. From qualitative observation of the real and computed videos (left and right respectively), the custom computation shows a high level of matching.
 
-![](pictures\video_comp.gif)
+![](pictures/video_comp.gif)
 
 This updated pipeline is shown below:
 
-![](pictures\video%20pipeline.png)
+![](pictures/video%20pipeline.png)
 
 # Notes on code
 
