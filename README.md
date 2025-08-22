@@ -4,6 +4,6 @@ This repository contains the finished portion of the diffusion-based controller 
 
 As of: 8/20/2025
 
-The model successfully generates muscle activations for the knee extension task with starting positions outside of training dataset and acheives **2.3% error** (Normalized RMSE) versus the expected trajectory. 
+The model successfully generates muscle activations for the knee extension task with starting positions outside of training dataset and acheives **2.3% error** (Normalized RMSE) versus the expected trajectory. This is an improvement from prior work [Chavarrias et al.](https://arxiv.org/abs/2503.11433)
 
-![Most recent model iteration](pictures\validation_results_FULL.png)
+![Most recent model iteration](pictures/validation_results_FULL.png)
