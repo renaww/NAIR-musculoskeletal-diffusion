@@ -15,7 +15,9 @@ The model successfully generates muscle activations for the knee extension task 
 
 
 The controller outputs are scripted via [Sconepy](https://scone.software/doku.php?id=sconepy) to translate into the 3D environment, such that the trajectories can be viewed on the actual human musculoskeletal system.
+
 ![knee extension example](pictures/knee_extension_gif.gif)
+
 *Example model output*
 
 
